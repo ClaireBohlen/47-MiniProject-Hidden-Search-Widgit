@@ -14,10 +14,7 @@ body{
     height: 100vh;
     overflow: hidden;
 }
-.input{
-    
 
-}
 .input.hide{
     display: none;
 }
