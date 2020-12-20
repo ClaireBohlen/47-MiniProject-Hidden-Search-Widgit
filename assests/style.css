@@ -14,3 +14,16 @@ body{
     height: 100vh;
     overflow: hidden;
 }
+.input{
+    
+
+}
+.input.hide{
+    display: none;
+}
+.icon{
+    cursor: pointer;
+    outline: 1px solid black;
+    padding: 4px;
+    
+}
